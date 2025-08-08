@@ -14,9 +14,12 @@ A lightweight Python module to enhance terminal I/O: animated printing, spinners
 
 ## 🔧 Installation
 
-Just drop `stdoutools.py` into your project directory.
-
 No external dependencies. Pure Python 3.
+
+Install from PyPI:
+```bash
+pip install stdoutools
+```
 
 ---
 
